@@ -1,3 +1,6 @@
+!!DEPRECATED!!
+This project is marked as deprecated. You get better functionality with Host directive in /etc/ssh/ssh_config or ~/.ssh/config.
+
 I use this script on Unix-like servers where DNS doesn't work correctly 
 and I have not root rights to update /etc/hosts. In simple text file
 is list of hostnames and IP addresses separated via semicolon, each
